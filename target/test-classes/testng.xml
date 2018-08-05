@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="GmailTest">
+
+	<test name="Sub Cal Test">
+		<classes>
+			<class name="com.lunasa.gmail.tests.GmailTest"/>
+		</classes>
+	</test>
+</suite>
